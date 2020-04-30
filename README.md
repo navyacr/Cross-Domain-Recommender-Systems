@@ -14,8 +14,12 @@ It provides:<br>
 <h1> <b> System flow and design</b> </h1>
 
 <img width="964" alt="compdiagram.png" src="https://github.com/navyacr/Cross-Domain-Recommender-Systems/blob/master/compdiagram.png">
+
+Movie User to Book Item Recommendation
+
 <img width="964" src="https://github.com/navyacr/Cross-Domain-Recommender-Systems/blob/master/block_diagram.png">
 
+Book user to Movie Item Recommendation
 </br>
 
 <h1> <b> Algorithms Used</b> </h1>
@@ -48,6 +52,5 @@ Install ODBC connection drivers<br>
 
 <h1><b> Team </b> </h1>
 Harika Andugula <br> Navya Chennagiri Ravikumar <br/>  Nihanjali Mallavarapu
-
-
+<br>
 <div style="right: 16px;float:right;"> Last updated on 29th April 2020. </div>
