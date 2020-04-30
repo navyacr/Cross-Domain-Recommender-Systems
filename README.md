@@ -1,0 +1,3 @@
+# Cross-Domain-Recommender-Systems
+Recommendation on cross domain using two separate datasets.
+Abstract: Recommendation systems are information filtering models which have gained enormous applications in the current online domains. The idea of cross domain recommendation systems is to make the recommendations possible across multiple domains. The main objective of this project, is to come up with the  recommendations for a user in one domain with the items from another domain using a combination of algorithms, given the two domains are disjoint. This paper mainly focused on demonstration of cross domain recommendation systems using content based recommendation, Alternating Least Square (ALS) and item based collaborative filtering.
