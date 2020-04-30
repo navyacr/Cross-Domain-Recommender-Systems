@@ -15,11 +15,11 @@ It provides:<br>
 
 <img width="964" alt="compdiagram.png" src="https://github.com/navyacr/Cross-Domain-Recommender-Systems/blob/master/compdiagram.png">
 
-Movie User to Book Item Recommendation
+Books to Movie Users Item Recommendation
 
 <img width="964" src="https://github.com/navyacr/Cross-Domain-Recommender-Systems/blob/master/block_diagram.png">
 
-Book user to Movie Item Recommendation
+Movies to Book users Item Recommendation
 </br>
 
 <h1> <b> Algorithms Used</b> </h1>
